@@ -3,7 +3,7 @@
 - 💻 Student at Centro Universitário das Faculdades Integradas de Ourinhos - UNIFIO
 - 🤔 Back-end technology explorer
 - 🚀 FullStack Developer
-- 📴 Mobile Developer
+- 📴 Mobile Student Developer
 - 🌱 Learning more about Software Development
 
 <div>
